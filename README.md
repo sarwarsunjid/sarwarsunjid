@@ -1,4 +1,4 @@
-Hi! I am Sarwar Jahan Bhuiyan, a full stack developer focused on crafting great web experiences. I spend my days with my hands in many different areas of web development from back end programming (PHP, Laravel) to front end engineering (HTML, CSS, and jQuery/Javascript), digital accessibility, user experience and visual design.
+Hi! I am Sarwar Jahan Bhuiyan, a full stack developer focused on crafting great web experiences. I spend my days with my hands in many different areas of web development from back end development (PHP, Laravel) to front end development (HTML, CSS, and jQuery/Javascript), digital accessibility, user experience and visual design.
 
 Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since 2017. I love designing and developing websites as much I love to travel.
 
