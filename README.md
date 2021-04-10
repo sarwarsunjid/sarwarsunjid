@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi! I am Sarwar Jahan Bhuiyan, a web designer/developer focused on crafting great web experiences.I spend my days with my hands in many different areas of web development from back end programming (PHP, Laravel) to front end engineering (HTML, CSS, and jQuery/Javascript), digital accessibility, user experience and visual design.
+
+Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since 2017. I love designing and developing websites as much I love to travel.
+
+I have been working in the field for more than 2 years & would love to help you take your product to the next level.
 
 <!--
 **sunjid/sunjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
