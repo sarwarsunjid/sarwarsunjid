@@ -5,7 +5,7 @@ Hi This is Sarwar ! a Full-Stack developer with vast array of knowledge in many 
 
 Get Idea about My Personal Skills:
 
-- <b>Front-end</b> : HTML5 | CSS | Bootstrap | Vue | React | Styled Components  
+- <b>Front-end</b> : HTML5 | CSS3 | Bootstrap | Vue | React | Styled Components  
 - <b>Back-end</b> : PHP | Laravel 
 - <b>Framework</b> : Laravel MVC | Reactjs | Vuejs 
 - <b>Database</b> : Mysql | Firebase 
