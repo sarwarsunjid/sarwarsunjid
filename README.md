@@ -5,7 +5,7 @@ Hi This is Sarwar! a web developer with vast array of knowledge in many differen
 
 Talking about Personal Stuffs:
 
-- I'm a full-stack developer ready for developing medium to large projects and ready to start your project anytime.
+- I'm a full-stack developer ready for developing medium to large scale projects and ready to start your project anytime.
 - Enterprise application development and support
 - <b>Front-end</b> : HTML5 | CSS | Bootstrap | Vue | React | Styled Components  
 - <b>Back-end</b> : PHP | Laravel 
