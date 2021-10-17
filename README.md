@@ -3,7 +3,7 @@
 Hi This is Sarwar! a web developer with vast array of knowledge in many different areas of programming like frontend and backend technology. I have more than 3 years of hands-on experience in designing, developing and implementing applications.
 
 
-Talking about Personal Stuffs:
+Skill Set:
 
 - I'm a full-stack developer ready for developing medium to large scale projects and ready to start your project anytime.
 - Enterprise application development and support
