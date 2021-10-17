@@ -6,7 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@sarwarsunjid)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
-Hi This is Sarwar ! a Full-Stack developer with vast array of knowledge in many different areas of programming like frontend and backend technology. I have more than 3 years of hands-on experience in designing, developing and implementing applications. Ready for developing medium to large scale projects and ready to start your project anytime
+I am a Full-Stack developer with vast array of knowledge in many different areas of programming like frontend and backend technology. I have more than 3 years of hands-on experience in designing, developing and implementing applications. Ready for developing medium to large scale projects and ready to start your project anytime
 
 
 
