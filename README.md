@@ -3,7 +3,7 @@
 - Hi This is Sarwar! a web developer with vast array of knowledge in many different areas of programming like frontend and backend technology. I have more than 3 years of hands-on experience in designing, developing and implementing applications. Ready for developing medium to large scale projects and ready to start your project anytime
 
 
-Skill Set:
+Lets Have a look!:
 
 - <b>Front-end</b> : HTML5 | CSS | Bootstrap | Vue | React | Styled Components  
 - <b>Back-end</b> : PHP | Laravel 
