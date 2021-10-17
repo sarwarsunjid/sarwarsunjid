@@ -12,4 +12,4 @@ Talking about Personal Stuffs:
 - <b>Framework</b> : Laravel MVC | Reactjs | Vuejs 
 - <b>Database</b> : Mysql | Firebase 
 - <b>CMS</b> : Wordpress 
-- <b>Version Control System </b> :  Git, Github, BitBucket
+- <b>Version Control System </b> :  Git | Github | BitBucket
