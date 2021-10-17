@@ -2,17 +2,14 @@
 
 Hi This is Sarwar! a web developer with vast array of knowledge in many different areas of programming like frontend and backend technology. I have more than 3 years of hands-on experience in designing, developing and implementing applications.
 
-<!--
-**sunjid/sunjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a full-stack developer ready for developing medium to large projects and ready to start your project anytime.
+- Enterprise application development and support
+- <b>Front-end</b> : HTML5 | CSS | Bootstrap | Vue | React | Styled Components  
+- <b>Back-end</b> : PHP | Laravel 
+- <b>Framework</b> : Laravel MVC | Reactjs | Vuejs 
+- <b>Database</b> : Mysql | Firebase 
+- <b>CMS</b> : Wordpress 
+- <b>Version Control System </b> :  Git, Github, BitBucket
