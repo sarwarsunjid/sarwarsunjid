@@ -11,9 +11,9 @@ I am a Full-Stack developer with vast array of knowledge in many different areas
 
 **Get Idea about Personal Stuffs:**
 
-- <b>Front-end</b> : HTML5 | CSS3 | Bootstrap 4 | Bootstrap 5 | Javascript | Jquery | Vue | React |  
+- <b>Front-end</b> : HTML5 | CSS3 | Bootstrap 4 | Bootstrap 5 | Javascript | Jquery | Vue | 
 - <b>Back-end</b> : PHP | Laravel 
-- <b>Framework</b> : Laravel MVC | Reactjs | Vuejs 
+- <b>Framework</b> : Laravel MVC | Vuejs 
 - <b>Database</b> : Mysql | Firebase 
 - <b>CMS</b> : Wordpress 
 - <b>Version Control System </b> : Github | BitBucket
