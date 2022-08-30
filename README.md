@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sarwarsunjid)
 [![Telegram Badge](https://img.shields.io/badge/Stackoverflow-e0e0e0?style=flat-square&logo=stackoverflow&logoColor=ec7c23)](https://stackoverflow.com/users/7094919/sunjid)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sunjid.sunjid)
+### Glad to see you here!
 
 I am a Full-Stack developer with vast array of knowledge in many different areas of programming like frontend and backend technology. I have more than 3 years of hands-on experience in designing, developing and implementing applications. Ready for developing medium to large scale projects and ready to start your project anytime
 
